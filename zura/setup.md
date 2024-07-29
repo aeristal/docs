@@ -1,0 +1,52 @@
+# Setup
+
+## Adding a new GUI
+
+Want to make ZURA display your own GUI? Follow this step-by-step guide. If you want this GUI to be displayed on every display in your zone, go to [Using an transmitter](setup.md#using-an-transmitter).
+
+1. Have your GUI ready and make sure it is an `SurfaceGui`. The GUI's face should be `Front`.
+2. Locate the Screen part in the display. It may be somewhere else in the display depending on your display's model.\
+   ![](<../.gitbook/assets/image (4).png>)
+3. Parent your `SurfaceGui` to the Screen part.
+4. The display should now display the GUI. Power it on and try it out!
+
+## Using an transmitter
+
+The ZURA HDMI Transmitter makes it easy for you to display the same GUI in every display that's in the zone.
+
+1. Have your GUI ready and make sure it is an `SurfaceGui`. The GUI's Face should be `Front`.
+2. Locate your transmitter.
+3. Parent the GUI to the transmitter. \
+   ![](<../.gitbook/assets/image (5).png>)\
+
+4. All displays in the zone should now be displaying your GUI.
+
+{% hint style="warning" %}
+Content below this warning is not compatible for ZURA displays which have not been upgraded to Version 2.0. Please replace the Controller scripts with the new versions to continue. Updates are included with no additional cost.
+{% endhint %}
+
+## Overriding the default UI name
+
+UIs in displays are automatically given a randomized name depending on where it is originally parented to.
+
+Transmitter: ZURA-HT-0000\
+In the display's screen: INTEGRATED-0000
+
+The last 4 zeros are randomized numbers.
+
+1. To override the default names, start by creating a new attribute called "ZR\_DisplayName" in your GUI. Make sure that Type is set to `string`.\
+   ![](<../.gitbook/assets/image (6).png>)
+2. Set the attribute to any name you want.
+
+## Standalone displays
+
+All ZURA Displays can be parented to anywhere, and they'll still work. While for the Config, it can also be parented to the display's Controller or in the zone's API.
+
+Below is the default configuration for a display which does not have a Config in it's Controller script and is not parented to a zone:
+
+| Configuration    | Default          |
+| ---------------- | ---------------- |
+| InitiallyPowerOn | Disabled (false) |
+| AutoAdjust       | Disabled (false) |
+| WhitelistEnabled | Disabled (false) |
+
