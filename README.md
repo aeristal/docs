@@ -1,4 +1,4 @@
-# ℹ️ Terms & Condition
+# ℹ️ Terms & Conditions
 
 ## Section 1: Products
 
