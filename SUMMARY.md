@@ -4,7 +4,7 @@
 
 ## 👋 Getting Started
 
-* [ℹ️ Terms & Conditions](getting-started/readme.md)
+* [ℹ️ Terms & Conditions](getting-started/terms.md)
 * [📚 Frequently Asked Questions](getting-started/faq.md)
 
 ## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
