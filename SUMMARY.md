@@ -1,7 +1,11 @@
 # Table of contents
 
-* [ℹ️ Terms & Conditions](README.md)
-* [📚 Frequently Asked Questions](faq.md)
+* [Welcome](README.md)
+
+## 👋 Getting Started
+
+* [ℹ️ Terms & Conditions](getting-started/readme.md)
+* [📚 Frequently Asked Questions](getting-started/faq.md)
 
 ## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
 
@@ -24,7 +28,7 @@
 * [Custom Integrations](flux/custom.md)
 * [Integration Constructor](flux/constructor.md)
 
-## 📣 Advertisement System <a href="#adsys" id="adsys"></a>
+## 📣 Advertisement System <a href="#a-dsys" id="a-dsys"></a>
 
 * [Setup](adsys/setup.md)
 
