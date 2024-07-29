@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/ateliergrp_banner1.png
-coverY: 101
+cover: .gitbook/assets/ateliergrp_logobanner.png
+coverY: 0
 ---
 
 # Welcome
