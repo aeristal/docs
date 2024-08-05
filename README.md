@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/ateliergrp_logobanner.png
+cover: .gitbook/assets/ateliergrp_youtubebanner.png
 coverY: 0
 ---
 
