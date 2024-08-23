@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 
-## 👋 Getting Started
+## 👋 Getting Started <a href="#gs" id="gs"></a>
 
-* [ℹ️ Terms & Conditions](getting-started/terms.md)
-* [📚 Frequently Asked Questions](getting-started/faq.md)
+* [ℹ️ Terms & Conditions](gs/terms.md)
+* [📚 Frequently Asked Questions](gs/faq.md)
 
 ## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
 
