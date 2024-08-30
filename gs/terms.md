@@ -7,7 +7,7 @@ It is highly recommended that you review Section 1 of our Terms & Conditions bef
 {% endhint %}
 
 {% hint style="info" %}
-Additional note: The Customer is fully responsible for blacklists caused by experimenting or playing with the licensing system. Atelier Group _will not_ remove your blacklist for this reason.
+ZURA Displays are covered by [Section 1](terms.md#section-1-products) **AND** [Section 2](terms.md#section-2-zura-displays-specific-terms-and-conditions) of the Terms & Conditions.
 {% endhint %}
 
 ## Definitions
@@ -20,9 +20,9 @@ Additional note: The Customer is fully responsible for blacklists caused by expe
 
 
 
-By purchasing any Product license, whether at a cost or not, you agree to comply with Atelier Group's Terms & Conditions which governs the usage of our Products.
+By purchasing and/or owning any Product license, whether at a cost or not, you agree to comply with Atelier Group's Terms & Conditions which governs the usage of our Products.
 
-By purchasing any Product license, the Customer also acknowledges that they may be blacklisted from the usage of our Products OR have their Product licenses revoked without prior notice upon violation of the Terms & Conditions.
+By purchasing and/or owning any Product license, the Customer also acknowledges that they may be blacklisted from the usage of our Products OR have their Product licenses revoked without prior notice upon violation of the Terms & Conditions.
 
 1.1. You are not allowed to attempt to deobfuscate any Product.
 
@@ -45,23 +45,20 @@ By purchasing any Product license, the Customer also acknowledges that they may 
 
 1.9. You are not allowed to use our Products for illegal or unauthorized purposes.
 
-1.10. You are only allowed to use our Products **AS-IS**, no modifications are permitted unless there is written approval. This is also the same as T\&Cs Section 1 clause 1.2.
+1.10. UI modifications are only allowed UNDER THESE CONDITIONS:
 
-* 1.10.1. Faking written approvals from Atelier Group is strictly prohibited and will result in a blacklist. Creators should contact Atelier via a General Support ticket in the Discord server to get proper written approval.
+* 1.10.1. You do not delete or change the Parent property of any UI element.
+* 1.10.2. You ensure all UI modifications abide by all Terms & Conditions.
 
-1.11. UI modifications are only allowed UNDER THESE CONDITIONS:
+1.11. You are strictly not allowed to use any of our Products in any way which affects us or our reputation negatively. Eg. defamation, etc.
 
-* 1.11.1. You do not delete or change the Parent property of any UI element.
-* 1.11.2. You ensure all UI modifications abide by all Terms & Conditions.
+1.12. You are strictly not allowed to use our Products to assist with posting or publicizing any unmeaningful or false reviews of our Products.
 
-1.12. You are strictly not allowed to use any of our Products in any way which affects us or our reputation negatively. Eg. defamation, etc.
+1.13. You are strictly not allowed to intentionally tamper with the Product to show that the Product was received in poor condition without contacting Support beforehand.
 
-1.13. The Customer is strictly not allowed to:
+1.14. You are strictly not allowed to use our Products in comparative demo videos where it is easy to determine that our Product will perform more poorly than other competitors in the demo, whether fair or manipulated.
 
-* 1.13.1. use our Products to assist with posting or publicizing any unmeaningful or false reviews of our Products.
-* 1.13.2. intentionally tamper with the Product to show that the Product was received in poor condition without contacting Support beforehand.
-* 1.13.3. use our Products in comparative demo videos where it is easy to determine that our Product will perform more poorly than other competitors in the demo, whether fair or manipulated.
-* 1.13.4. post any types of media to any social media platforms/services to publicize and/or criticize our Products with the intention to negatively affect our sales or to encourage boycotting Atelier Group.
+1.15. You are strictly not allowed to post any types of media to any social media platforms/services to publicize and/or criticize our Products with the intention to negatively affect our sales or to encourage boycotting Atelier Group and/or its parent company and subsidiaries.
 
 ## Section 2: ZURA Displays Specific Terms & Conditions
 
@@ -79,11 +76,13 @@ Section 2 only applies to the **seller**, **not the customer**.
 
 "You" or "Creator": The individual/company who owns a creation/product which includes an ZURA Display as part of it.
 
-"Purchaser": The individual who is purchasing a creation/product which has a ZURA Display as part of it from the Creator.
+"Customer": The individual who is purchasing a creation/product which has a ZURA Display as part of it from the Creator.
 
-By making any ZURA Display as part of any creation or product which is being sold to others, the Creator automatically agrees to abide by Section 2 of the Product Terms & Conditions.
 
-2.1. The Creator must inform the Purchaser of Section 1 of Atelier Group's Product Terms & Conditions beforehand.
+
+By making any ZURA Display as part of any creation or product which is being distributed to others, the Creator automatically agrees to abide by Section 2 of the Product Terms & Conditions.
+
+2.1. The Creator is strongly encouraged to inform the Customer about Atelier Group's Terms & Conditions beforehand or upon purchase.
 
 2.2. The Creator is not allowed to display or claim in any way that the ZURA Display was made by them in any way (modelling/scripting/etc).
 
