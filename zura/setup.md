@@ -1,12 +1,16 @@
 # Setup
 
+{% hint style="success" %}
+This setup guide is only for ZURA Display Pack V2.0 and above.
+{% endhint %}
+
 ## Adding a new GUI
 
 Want to make ZURA display your own GUI? Follow this step-by-step guide. If you want this GUI to be displayed on every display in your zone, go to [Using an transmitter](setup.md#using-an-transmitter).
 
 1. Have your GUI ready and make sure it is an `SurfaceGui`. The GUI's face should be `Front`.
 2. Locate the Screen part in the display. It may be somewhere else in the display depending on your display's model.\
-   ![](<../.gitbook/assets/image (4).png>)
+   ![](<../.gitbook/assets/image (4) (1).png>)
 3. Parent your `SurfaceGui` to the Screen part.
 4. The display should now display the GUI. Power it on and try it out!
 

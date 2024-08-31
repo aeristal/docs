@@ -1,5 +1,9 @@
 # Setup
 
+{% hint style="success" %}
+This setup guide is only for ParkingPal V2.0 and above.
+{% endhint %}
+
 ## Setting up an parking sensor
 
 Firstly.. If you have not made the outlines for parking spots yet, you can use the premade parking spot outline which is already set up together with the sensor. To make your life easier, we recommend you use the Archimedes plugin to make rows of parking spots.
@@ -18,7 +22,19 @@ To use Archimedes to make rows:
 
 And if you'd like, you can put some Parking Info Signs around so your customers can know the amount of parking spots available.
 
+## Setting up a info sign with multiple zones
 
+There are 2 types of info signs that come with ParkingPal. One that shows parking information for the current zone, and the other with the capability to show up to 3 zones.
+
+This section is for setting up the info sign that can display up to 3 zones.
+
+1. Locate the Configuration instance in the info sign.\
+   ![](../.gitbook/assets/image.png)
+2. You will find 3 `ObjectValue`s for each zone. Choose a zone display to set up.\
+   ![](<../.gitbook/assets/image (1).png>)
+3. Set the Value property to the Zone folder you wish to set it to.\
+   ![](<../.gitbook/assets/image (3).png>)
+4. Done!
 
 ## Parking sensor states
 
