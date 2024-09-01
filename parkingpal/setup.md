@@ -29,9 +29,9 @@ There are 2 types of info signs that come with ParkingPal. One that shows parkin
 This section is for setting up the info sign that can display up to 3 zones.
 
 1. Locate the Configuration instance in the info sign.\
-   ![](../.gitbook/assets/image.png)
+   ![](<../.gitbook/assets/image (2).png>)
 2. You will find 3 `ObjectValue`s for each zone. Choose a zone display to set up.\
-   ![](<../.gitbook/assets/image (1).png>)
+   ![](<../.gitbook/assets/image (1) (1).png>)
 3. Set the Value property to the Zone folder you wish to set it to.\
    ![](<../.gitbook/assets/image (3).png>)
 4. Done!

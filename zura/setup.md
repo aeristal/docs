@@ -46,11 +46,24 @@ The last 4 zeros are randomized numbers.
 
 All ZURA Displays can be parented to anywhere, and they'll still work. While for the Config, it can also be parented to the display's Controller or in the zone's API.
 
+To use the same Config for a group of displays:
+
+1. Parent the display to a ZURA Displays zone folder.
+
+**OR**
+
+To configure a standalone ZURA Display's behaviour:
+
+1. Duplicate the ZoneConfig module from a ZURA Displays zone folder.\
+   ![](../.gitbook/assets/image.png)
+2. Parent the Config to a ZURA Display's Controller script and name it "Config".\
+   ![](<../.gitbook/assets/image (1).png>)
+
 Below is the default configuration for a display which does not have a Config in it's Controller script and is not parented to a zone:
 
-| Configuration    | Default          |
-| ---------------- | ---------------- |
-| InitiallyPowerOn | Disabled (false) |
-| AutoAdjust       | Disabled (false) |
-| WhitelistEnabled | Disabled (false) |
+| Configuration                   | Default          |
+| ------------------------------- | ---------------- |
+| InitiallyPowerOn                | Disabled (false) |
+| AutoAdjust (Monitor S2 only)    | Enabled (true)   |
+| WhitelistEnabled (User & Group) | Disabled (false) |
 
