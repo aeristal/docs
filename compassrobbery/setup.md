@@ -36,4 +36,4 @@ Keep in mind that EngageMethod is case-sensitive.
 The highlighted keys in the picture below show you what the spare keys are. They are keys that have no labels on them.\
 
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption><p>JSM SelfServ ATM V2's keypad</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption><p>JSM SelfServ ATM V2's keypad</p></figcaption></figure>

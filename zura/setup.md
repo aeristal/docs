@@ -55,9 +55,9 @@ To use the same Config for a group of displays:
 To configure a standalone ZURA Display's behaviour:
 
 1. Duplicate the ZoneConfig module from a ZURA Displays zone folder.\
-   ![](../.gitbook/assets/image.png)
+   ![](<../.gitbook/assets/image (3).png>)
 2. Parent the Config to a ZURA Display's Controller script and name it "Config".\
-   ![](<../.gitbook/assets/image (1).png>)
+   ![](<../.gitbook/assets/image (1) (1).png>)
 
 Below is the default configuration for a display which does not have a Config in it's Controller script and is not parented to a zone:
 

@@ -5,7 +5,11 @@
 ## 👋 Getting Started <a href="#gs" id="gs"></a>
 
 * [ℹ️ Terms & Conditions](gs/terms.md)
-* [📚 Frequently Asked Questions](gs/faq.md)
+* [🙋 The Basics](gs/the-basics.md)
+
+## ❓ Support
+
+* [📚 Frequently Asked Questions](support/faq.md)
 
 ## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
 
@@ -45,3 +49,8 @@
 ## 💰 compassRobbery
 
 * [Setup](compassrobbery/setup.md)
+
+## 🪄 Ranking Sticks
+
+* [Custom Tools](ranking-sticks/custom-tools.md)
+* [API Documentation](ranking-sticks/api-documentation.md)

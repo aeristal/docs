@@ -3,7 +3,7 @@
 ## Section 1: Products
 
 {% hint style="danger" %}
-It is highly recommended that you review Section 1 of our Terms & Conditions before purchase. In the event that you do not agree with any one of the terms & conditions stated below, please contact Support to revoke your NON-REFUNDABLE license(s).
+It is highly recommended that you review Section 1 of our Terms & Conditions before purchase. In the event that you do not agree with any one of the terms & conditions stated below, please contact Support to revoke your NON-REFUNDABLE license(s) if any.
 {% endhint %}
 
 {% hint style="info" %}
