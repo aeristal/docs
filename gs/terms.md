@@ -10,7 +10,7 @@ It is highly recommended that you review Section 1 of our Terms & Conditions bef
 ZURA Displays are covered by [Section 1](terms.md#section-1-products) **AND** [Section 2](terms.md#section-2-zura-displays-specific-terms-and-conditions) of the Terms & Conditions.
 {% endhint %}
 
-## Definitions
+### Definitions
 
 "Customer" or "You": Product license holder.
 
@@ -70,7 +70,7 @@ Companies or any individuals who use ZURA devices as part of a creation/product 
 Section 2 only applies to the **seller**, **not the customer**.
 {% endhint %}
 
-## Definitions
+### Definitions
 
 "ZURA Display(s)/device": An ZURA device, which is inclusive of all available ZURA models.
 
