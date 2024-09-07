@@ -14,6 +14,7 @@
 ## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
 
 * [Setup](flo/setup.md)
+* [Setup for Card Reader Pro](flo/setup-crp.md)
 * [API Documentation](flo/api-documentation.md)
 
 ## 🅿️ ParkingPal
