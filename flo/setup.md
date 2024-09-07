@@ -4,13 +4,17 @@
 A paid license is required to use this product.
 {% endhint %}
 
+{% hint style="success" %}
+This setup guide is only for flo Vehicle Access Control V2.2 and above. [Looking for Card Reader Pro's setup guide?](setup-crp.md)
+{% endhint %}
+
 ## Our recommended setup
 
 In this section, you'll learn how to set up your system using our recommended setup.
 
 Firstly, you'll need:
 
-* Card Reader (DWProx or Prompt)
+* Card Reader (DWProx or Card Reader Pro)
 * LPR camera
 * Flex Gate (Normal or Folding)
 * Welcome Screen (optional)
@@ -83,12 +87,12 @@ The ZoneConfig module for the whole zone can be found under the Network. All con
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-## BeforeOpen Configuration
+## Authorization function
 
-In the ZoneConfig module, you can find a function called "BeforeOpen".
+In the ZoneConfig module, you can find a function called "Authorization".
 
-The BeforeOpen function can be customized to execute any code you'd like before the gate opens for the player. In the function, you can also decline the player entry by adding "return false" or returning a string ("") instead to tell the player why they were declined.
+The Authorization function can be customized to execute any code you'd like before the gate opens for the player. In the function, you can also decline the player entry by adding "return false" or returning a string ("") instead to tell the player why they were declined.
 
 {% hint style="info" %}
-Using this configuration may require basic developer knowledge.
+Using this configuration requires basic developer knowledge.
 {% endhint %}
