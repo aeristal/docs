@@ -10,6 +10,7 @@
 ## ❓ Support
 
 * [📚 Frequently Asked Questions](support/faq.md)
+* [💁 Contact Us](support/contact-us.md)
 
 ## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
 

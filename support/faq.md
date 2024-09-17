@@ -5,7 +5,7 @@ Hi. In this page, you can find answers to questions which are frequently asked.
 
 
 **Question: Do you do product transfers?**\
-Answer: Yes. You may open a Product Support ticket in our server to transfer your product license to someone else.
+Answer: Yes. You may open a Product Support ticket [in our server](contact-us.md) to transfer your product license to someone else.
 
 **Question: Can I have a refund?**\
 Answer: No refunds will be given at all.\
