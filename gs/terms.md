@@ -3,7 +3,7 @@
 ## Section 1: Products
 
 {% hint style="danger" %}
-It is highly recommended that you review Section 1 of our Terms & Conditions before purchase. In the event that you do not agree with any one of the terms & conditions stated below, please contact Support to revoke your NON-REFUNDABLE license(s) if any.
+It is highly recommended that you review Section 1 of our Terms & Conditions before purchase. In the event that you do not agree with any one of the terms & conditions stated below, please [contact Support](../support/contact-us.md) to revoke your NON-REFUNDABLE license(s) if any.
 {% endhint %}
 
 {% hint style="info" %}
@@ -32,10 +32,10 @@ By purchasing and/or owning any Product license, the Customer also acknowledges 
 
 1.4. You are not allowed to remove or modify any brandings that may come with the Products unless you own the No Branding Pass. Brandings include any product names or the Atelier Group logo, as well as the clearOS brandings.
 
-* 1.4.1. Whereas for products with no brandings **which are inclusive of the No Branding surcharge ONLY**, the Customer is permitted to put their own brandings on the Product while ensuring that they abide by T\&Cs Section 1 clause 1.5 (below this clause).
-* 1.4.2. Moving brandings is allowed, but it must remain visible.
+* 1.4.1. Whereas for products with no brandings **which are inclusive of the No Branding surcharge ONLY OR the Customer owns the No Branding Pass**, the Customer is permitted to put their own brandings on the Product while ensuring that they abide by T\&Cs Section 1 clause 1.5 (below this clause).
+* 1.4.2. Moving brandings is allowed, but it must remain on the surface of the Product.
 
-1.5. You are not allowed to display or claim that our Products are yours.
+1.5. You are not allowed to display or claim that our Products are yours unless **you own the No Branding Pass OR the Product is inclusive of the No Branding surcharge ONLY.**
 
 1.6. You are not allowed to use leaked/counterfeit Products without a Product license.
 
