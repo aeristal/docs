@@ -60,6 +60,8 @@ By purchasing and/or owning any Product license, the Customer also acknowledges 
 
 1.15. You are strictly not allowed to post any types of media to any social media platforms/services to publicize and/or criticize our Products with the intention to negatively affect our sales or to encourage boycotting Atelier Group and/or its parent company and subsidiaries.
 
+1.16. You are allowed to resell any Product license, but you are strictly not allowed to resell licenses at a price which is 50 Robux more than the original price (not the price you purchased it for).
+
 ## Section 2: ZURA Displays Specific Terms & Conditions
 
 {% hint style="danger" %}
