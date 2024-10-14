@@ -38,7 +38,7 @@
 
 ## 📣 Advertisement System <a href="#a-dsys" id="a-dsys"></a>
 
-* [Setup](adsys/setup.md)
+* [Setup](a-dsys/setup.md)
 
 ## 📦 smartStock
 

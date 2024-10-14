@@ -4,7 +4,7 @@
 
 First, you will need to get the module which will "give" your integration for the system to install. You can find the Template Integration in the "Custom Integrations" folder.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Constructing your integration
 
@@ -18,7 +18,7 @@ Now, before "giving" your integration for the system to install, you obviously c
 2. Next, locate the "Construct" script inside of the integration module.\
 
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 3. Open the script and take a look inside. You can see that an example integration has already been made for you. Delete everything in the script as we will be teaching you step-by-step on how to construct your integration!
 4. For the first line, you need to require the Flux Integration Constructor module. So add the line of code below.
