@@ -10,8 +10,6 @@
 ## ❓ Support
 
 * [📚 Frequently Asked Questions](support/faq.md)
-* [⚠️ Error Codes](support/error-codes/README.md)
-  * [ubbPayments](support/error-codes/ubbpayments.md)
 * [💁 Contact Us](support/contact-us.md)
 
 ## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
