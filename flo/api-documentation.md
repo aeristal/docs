@@ -3,11 +3,11 @@
 ## API Information
 
 **Type:** BindableEvent\
-**Location:** Child of a zone folder\
+**Location:** Zones -> Zone folder -> Network\
 **Execution method:**
 
 ```lua
-API:Fire("CommandName", ...) -- additional arguments can be added
+Network:Fire("CommandName", ...) -- additional arguments can be added
 ```
 
 

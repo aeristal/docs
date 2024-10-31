@@ -3,7 +3,7 @@
 ## API Information
 
 **Type:** BindableEvent\
-**Location:** Child of a zone folder\
+**Location:** Zone folder -> API **OR** ZURA device -> API\
 **Execution method:**
 
 ```lua

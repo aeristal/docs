@@ -3,7 +3,7 @@
 ## API Information
 
 **Type:** BindableFunction\
-**Location:** Child of Engine script\
+**Location:** Engine -> API\
 **Execution method:**
 
 ```lua

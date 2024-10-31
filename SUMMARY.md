@@ -56,3 +56,8 @@
 
 * [Custom Tools](ranking-sticks/custom-tools.md)
 * [API Documentation](ranking-sticks/api-documentation.md)
+
+## 💡 Nadium Lighting System <a href="#nadium" id="nadium"></a>
+
+* [Setup](nadium/setup.md)
+* [API Documentation](nadium/api-documentation.md)
