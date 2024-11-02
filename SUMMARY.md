@@ -34,9 +34,9 @@
 * [Custom Integrations](flux/custom.md)
 * [Integration Constructor](flux/constructor.md)
 
-## 📣 Advertisement System <a href="#a-dsys" id="a-dsys"></a>
+## 📣 Advertisement System <a href="#adsys" id="adsys"></a>
 
-* [Setup](a-dsys/setup.md)
+* [Setup](adsys/setup.md)
 
 ## 📦 smartStock
 
