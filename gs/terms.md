@@ -6,7 +6,15 @@
 It is highly recommended that you review Section 1 of our Terms & Conditions before purchase. In the event that you do not agree with any one of the terms & conditions stated below, please [contact Support](../support/contact-us.md) to revoke your NON-REFUNDABLE license(s) if any.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="danger" %}
+Warnings, revocations, and blacklists will be recorded and may affect you in other subsidiaries of Kyra Holdings, Atelier Group's parent company. A bad record may affect your chances of passing applications, eligibility in affiliating, etc.
+{% endhint %}
+
+{% hint style="success" %}
+We will directly message you on Discord to handle T\&C violations before we take action. If you are not a member of our Discord server, action will be taken on T\&C violations without prior notice.
+{% endhint %}
+
+{% hint style="success" %}
 ZURA Displays are covered by [Section 1](terms.md#section-1-products) **AND** [Section 2](terms.md#section-2-zura-displays-specific-terms-and-conditions) of the Terms & Conditions.
 {% endhint %}
 
