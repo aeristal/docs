@@ -31,4 +31,4 @@ Last updated on 9/11/2024 6:35AM EST.
 
 ## All around the world
 
-**150** users from **31** different countries visited our Creator Documentation as of 9/11/2024 6:33AM EST
+**150** users from **31** different countries visited our Creator Documentation as of 9/11/2024 6:33AM EST.

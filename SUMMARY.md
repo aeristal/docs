@@ -4,7 +4,7 @@
 
 ## 👋 Getting Started <a href="#gs" id="gs"></a>
 
-* [ℹ️ Terms & Conditions](gs/terms.md)
+* [ℹ️ Terms of Use](gs/terms.md)
 * [🙋 The Basics](gs/the-basics.md)
 
 ## ❓ Support
