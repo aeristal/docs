@@ -16,7 +16,7 @@ compassRobbery is only compatible with JSM SelfServ ATM V2.
 
 1. Import your ATM into your game.
 2. Parent the ATM to the ATMs folder.\
-   ![](<../.gitbook/assets/image (9).png>)
+   ![](<../../.gitbook/assets/image (9).png>)
 3. Select any part in your ATM, or make a new part and name it "robPrompt" (case-sensitive). This part will be where the Start Robbery prompt will be.
 4. Your ATMs will automatically be installed with the system and is ready to be used.
 
@@ -36,4 +36,4 @@ Keep in mind that EngageMethod is case-sensitive.
 The highlighted keys in the picture below show you what the spare keys are. They are keys that have no labels on them.\
 
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="563"><figcaption><p>JSM SelfServ ATM V2's keypad</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption><p>JSM SelfServ ATM V2's keypad</p></figcaption></figure>

@@ -15,7 +15,7 @@ Charge players whenever they tap a JSM Debit Card at a ReaderPlus device.
 1.  Locate the JSM-BankIntegration `BindableFunction` in the **Integrations** folder.\
 
 
-    <figure><img src="../.gitbook/assets/{CE9ED8AC-AA99-4A60-83C2-090991E235AB}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/{CE9ED8AC-AA99-4A60-83C2-090991E235AB}.png" alt=""><figcaption></figcaption></figure>
 2. Open BankScript and you will find this function.\
 
 

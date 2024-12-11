@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Welcome](README.md)
+## ✨ Getting Started <a href="#gs" id="gs"></a>
 
-## 👋 Getting Started <a href="#gs" id="gs"></a>
-
+* [👋 Welcome](README.md)
 * [ℹ️ Terms of Use](gs/terms.md)
 * [🙋 The Basics](gs/the-basics.md)
 
@@ -12,52 +11,36 @@
 * [📚 Frequently Asked Questions](support/faq.md)
 * [💁 Contact Us](support/contact-us.md)
 
-## 🚗 flo Vehicle Access Control <a href="#flo" id="flo"></a>
+## ⚙️ Products
 
-* [Setup](flo/setup.md)
-* [Setup for Card Reader Pro](flo/setup-crp.md)
-* [API Documentation](flo/api-documentation.md)
-
-## 🅿️ ParkingPal
-
-* [Setup](parkingpal/setup.md)
-
-## 📺 ZURA Display Pack <a href="#zura" id="zura"></a>
-
-* [Setup](zura/setup.md)
-* [API Documentation](zura/api-documentation.md)
-
-## ⚙️ Flux BMS <a href="#flux" id="flux"></a>
-
-* [Setup](flux/setup.md)
-* [Global Integrations](flux/global.md)
-* [Custom Integrations](flux/custom.md)
-* [Integration Constructor](flux/constructor.md)
-
-## 📣 Advertisement System <a href="#adsys" id="adsys"></a>
-
-* [Setup](adsys/setup.md)
-
-## 📦 smartStock
-
-* [Setup](smartstock/setup.md)
-* [Product Restocking](smartstock/product-restocking.md)
-* [API Documentation](smartstock/api-documentation.md)
-
-## 🛍️ Parcel Kiosk <a href="#parcelkiosk" id="parcelkiosk"></a>
-
-* [Setup](parcelkiosk/setup.md)
-
-## 💰 compassRobbery
-
-* [Setup](compassrobbery/setup.md)
-
-## 🪄 Ranking Sticks
-
-* [Custom Tools](ranking-sticks/custom-tools.md)
-* [API Documentation](ranking-sticks/api-documentation.md)
-
-## 💡 Nadium Lighting System <a href="#nadium" id="nadium"></a>
-
-* [Setup](nadium/setup.md)
-* [API Documentation](nadium/api-documentation.md)
+* [ZURA Display Pack](products/zuradisplaypack/README.md)
+  * [Setup](products/zuradisplaypack/setup.md)
+  * [API Documentation](products/zuradisplaypack/api-documentation.md)
+* [Flux BMS](products/flux/README.md)
+  * [Setup](products/flux/setup.md)
+  * [Global Integrations](products/flux/global.md)
+  * [Custom Integrations](products/flux/custom.md)
+  * [Integration Constructor](products/flux/constructor.md)
+* [flo Vehicle Access Control](products/flovac/README.md)
+  * [Setup](products/flovac/setup.md)
+  * [Setup for Card Reader Pro](products/flovac/setup-crp.md)
+  * [API Documentation](products/flovac/api-documentation.md)
+* [ParkingPal](products/parkingpal/README.md)
+  * [Setup](products/parkingpal/setup.md)
+* [Car Park Bundle](products/carparkbundle.md)
+* [Advertisement System](products/adsys/README.md)
+  * [Setup](products/adsys/setup.md)
+* [smartStock](products/smartstock/README.md)
+  * [Setup](products/smartstock/setup.md)
+  * [Product Restocking](products/smartstock/product-restocking.md)
+  * [API Documentation](products/smartstock/api-documentation.md)
+* [Parcel Kiosk](products/parcelkiosk/README.md)
+  * [Setup](products/parcelkiosk/setup.md)
+* [compassRobbery](products/compassrobbery/README.md)
+  * [Setup](products/compassrobbery/setup.md)
+* [Ranking Sticks](products/ranking-sticks/README.md)
+  * [Custom Tools](products/ranking-sticks/custom-tools.md)
+  * [API Documentation](products/ranking-sticks/api-documentation.md)
+* [Nadium Lighting System](products/nadiumls/README.md)
+  * [Setup](products/nadiumls/setup.md)
+  * [API Documentation](products/nadiumls/api-documentation.md)
