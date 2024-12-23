@@ -46,7 +46,7 @@ Tip: Your ads will be played in alphabetical order following it's set name. Repl
 3. If you want to have sound played when your ad is displayed, add the **Sound ID** in the `SoundId`field. The display will wait for the sound to finish before moving onto the next ad.
 
 {% hint style="warning" %}
-If you have&#x20;
+If you have `AutomaticallySync` enabled, an ad with sound will cause that display to go out of sync. An fix will be implemented for this soon.
 {% endhint %}
 
 4. Optionally, you can enter your own scaling preference for your ad. Stretch will stretch your ad across the screen and Fit will fit your ad onto the screen without stretching it.
