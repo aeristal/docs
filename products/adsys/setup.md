@@ -17,15 +17,13 @@ If your game is eligible for Immersive Ads, it's recommended that you enable Imm
 
 **Cons**
 
-* No animations.
-* No image ads with sound.
-* Ad Scaling unavailable.
+* No tweens for image ads.
+* Image ads will not have sound (if set).
+* ScaleType will not take effect.
 
 ## Configuration
 
 All configuration settings have annotations beside them which explain the setting, but we'll teach you how to add image ads to your system!
-
-
 
 **Example Ad Format**
 
@@ -38,13 +36,18 @@ All configuration settings have annotations beside them which explain the settin
 	},
 ```
 
-1. In the text at the top, enter the name of the ad.
+1. In the `string` at the top, enter the name of the ad.
 
 {% hint style="success" %}
 Tip: Your ads will be played in alphabetical order following it's set name. Replace the name with numbers like 1, 2 or 3 to sort them!
 {% endhint %}
 
-2. At the DecalId field, you have to add the IMAGE ID (not to be confused with asset id) of the ad or else the screen will appear as blank. This issue will be solved soon.
-3. If you want to have sound played when your ad is displayed, add the sound. The system will wait until the sound has finished playing before displaying the next ad.
+2. In the `DecalId` field, you have to add the **Image ID** (not to be confused with **Asset ID**) of the ad or else the screen will appear as blank.
+3. If you want to have sound played when your ad is displayed, add the **Sound ID** in the `SoundId`field. The display will wait for the sound to finish before moving onto the next ad.
+
+{% hint style="warning" %}
+If you have&#x20;
+{% endhint %}
+
 4. Optionally, you can enter your own scaling preference for your ad. Stretch will stretch your ad across the screen and Fit will fit your ad onto the screen without stretching it.
 5. Different ads may have different sizes. Make sure you set the Orientation to Portrait, Landscape or Banner so your ad is shown on the appropriate screens.
