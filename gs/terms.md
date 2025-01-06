@@ -10,7 +10,11 @@ Please join our [**Discord server**](https://discord.gg/2Td9pB2kVs) if you haven
 
 ## Section 1: Products
 
-We've wrote our Terms of Use in a **Allowed and Disallowed Uses** format to make them easier to understand.
+{% hint style="warning" %}
+If you have concerns about your privacy while using our products, it is strongly advised that you read sections [#information-you-should-know-about-how-we-enforce-our-brandings](terms.md#information-you-should-know-about-how-we-enforce-our-brandings "mention") and [#what-happens-when-i-am-reported](terms.md#what-happens-when-i-am-reported "mention") thoroughly.
+{% endhint %}
+
+We've wrote our Terms of Use in a **simplified** way to make them easier to understand. You may contact us if you have any questions or concerns.
 
 ### What you're allowed to do:
 
@@ -32,5 +36,32 @@ We've wrote our Terms of Use in a **Allowed and Disallowed Uses** format to make
 8. **Using products illegally** or for unauthorized purposes.
 9. **Tampering** with products to falsely show poor condition.
 10. **Creating negative or unfair content** using our products (e.g., bad reviews, false comparisons, defamation).
-11. **Posting media** to harm sales, boycott, or damage Atelier Group's reputation.
-12. **Unfairly reselling licenses** at inflated prices. Don't be a scammer bro.
+11. **Posting media** to harm sales, boycott, or damage Atelier Group, its sibling companies and/or Elysian's reputation.
+12. **Reselling licenses**, especially at inflated prices.
+
+### Information you should know about how we enforce our brandings
+
+We have detection systems in place to ensure that brandings are not tampered with in a way that is against our Terms of Use. In the event our detection systems identify a potential Terms of Use violation, the experience & its owner will be reported to us for review. Reports consist of the following data:
+
+* Experience/community owner's username and user ID
+* Link to experience
+* Report reason
+* Name of product that sent the report **OR** full path to the branding (eg. `Workspace.Atelier Flux BMS.Controllers.Flux Controller.AtelierBranding`)
+
+However, our detection systems may also make mistakes and we are willing to work with you to find out and resolve the problem immediately so that your operations aren't disrupted.
+
+### What happens when I am reported?
+
+#### For branding reports
+
+The first few reports that is sent to us is ignored intentionally in case you decide to revert changes you've made to brandings or you've made a mistake.
+
+If an influx of reports are received within an small timeframe or reports are still being sent on the day after, we will attempt to reach out to you for more information, typically within 30 days.
+
+#### For counterfeit products
+
+We will attempt to reach out to the experience owner or an person who is likely to be able to clarify the situation based on information we have available. If we are unable to contact you, we will blacklist the experience owner.
+
+{% hint style="info" %}
+Questions or concerns? Please don't hesitate to [contact-us.md](../support/contact-us.md "mention").
+{% endhint %}
