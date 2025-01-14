@@ -1,7 +1,5 @@
 # Setup
 
-
-
 {% hint style="danger" %}
 A paid license is required to use this product.
 {% endhint %}
@@ -20,6 +18,14 @@ If your game is eligible for Immersive Ads, it's recommended that you enable Imm
 * No tweens for image ads.
 * Image ads will not have sound (if set).
 * ScaleType will not take effect.
+
+## Resolutions
+
+For your information, here are the best resolutions to be used with Advertisement System in pixels (width x height).
+
+* Landscape: 1920 x 1080
+* Portrait: 1080 x 1920
+* Banner: 1500 x 1000
 
 ## Configuration
 
