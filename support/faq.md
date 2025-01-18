@@ -6,11 +6,15 @@ Answer: Yes. You may open a Product Support ticket [in our server](contact-us.md
 **Question: Can I have a refund?**\
 Answer: Unfortunately, we do not provide refunds for any reason. Roblox Support <mark style="color:red;">**will not**</mark> provide you a refund as refunds are at the developer's discretion.
 
-**Question: I sawsomeone using counterfeit products/violating the Terms of Use! How can I report it?**\
+**Question: I saw/know someone violating the Terms of Use! How can I report it?**\
 Answer: To report anyone which may be violating Product Terms, please open an General Support ticket with evidence (screenshots/screen recordings) along with a link to the game.
 
 **Question: I still need help after checking the documentation!**\
 Answer: Please contact us [**here**](contact-us.md).
 
-**Question: Are you hacking/backdooring my game?**\
-Answer: As part of our commitment to customer satisfaction, we never backdoor or "hack" games by our customers in any way. Some of our systems may use RemoteEvents/RemoteFunctions to communicate with the Client from the Server, thus we also put efforts to secure the communication which may make the Remotes look like viruses.
+**Question: Are you hacking/backdooring my game? / Why is "AG\_ByteNet" being inserted into my game?**\
+Answer: We will never backdoor or attempt to gain unauthorized control over your game. Some of our products may need to send/receive data from server to client and client to server, but traditional Roblox RemoteEvents/RemoteFunctions pose a performance and security risk. Therefore, we use **ByteNet**, an networking library which helps to organize events and boost performance.
+
+{% hint style="info" %}
+ByteNet is currently notused in any of our products, but products will be shifting to ByteNet in their next updates.
+{% endhint %}
