@@ -10,6 +10,7 @@
 
 * [📚 Frequently Asked Questions](support/faq.md)
 * [💁 Contact Us](support/contact-us.md)
+* [📄 AI Transparency Statement](support/ai-transparency-statement.md)
 
 ## ⚙️ Products
 
