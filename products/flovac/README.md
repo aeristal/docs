@@ -1,4 +1,29 @@
+---
+cover: ../../.gitbook/assets/ateliergrp_creatordocsbanner.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # flo Vehicle Access Control
+
+Introducing the flo Vehicle Access Control. It's our flagship system which helps you with controlling entries/exits in your own premises.&#x20;
+
+It has all the essential features you'll ever need. Zones, gates.. even LPR cameras!&#x20;
+
+No more manual ticket booths. Let flo, handle the flow.
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)
