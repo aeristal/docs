@@ -37,7 +37,7 @@
   * [API Documentation](products/smartstock/api-documentation.md)
 * [Parcel Kiosk](products/parcelkiosk/README.md)
   * [Setup](products/parcelkiosk/setup.md)
-* [compasRobbery](products/atm-robbery-system/README.md)
+* [compassRobbery](products/atm-robbery-system/README.md)
   * [Setup](products/atm-robbery-system/setup.md)
 * [Ranking Sticks](products/ranking-sticks/README.md)
   * [Custom Tools](products/ranking-sticks/custom-tools.md)
