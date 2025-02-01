@@ -19,7 +19,9 @@ layout:
 
 # smartStock
 
-> **This product is currently not for sale due to performance issues.**&#x20;
+{% hint style="info" %}
+**This product is currently not for sale due to performance issues.** &#x20;
+{% endhint %}
 
 
 
