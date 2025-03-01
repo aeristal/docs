@@ -17,11 +17,11 @@ layout:
     visible: true
 ---
 
-# Advertisement System
+# AdGlide
 
-Our advanced advertisement system has never seen before capabilities which allows your marketing to go further than just showing your brand to others but the ability to monitize your marketing.
+Our advanced advertisement system has never seen before capabilities which allows your marketing to go further than just showing your brand to others but the ability to monetize your marketing.
 
-Our advertisement system not only lets you boost your sales, but able to monitize your game using Roblox's Immersive Ads.&#x20;
+Our Advertisement System not only lets you boost your sales, but able to monetize your game using Roblox's Immersive Ads.
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)

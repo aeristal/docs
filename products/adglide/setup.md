@@ -27,6 +27,28 @@ For your information, here are the best resolutions to be used with Advertisemen
 * Portrait: 1080 x 1920
 * Banner: 1500 x 1000
 
+## Old Configuration Compatibility (for v1 users)
+
+As AdGlide was rewritten from scratch, a part of the script that reads the **Advertisements** configuration was scripted incorrectly.
+
+Your advertisements' `Orientations` key should look like this:
+
+```lua
+["Orientation"] = "Portrait", -- The orientation of the ad (Portrait, Landscape, Banner)
+```
+
+Unfortunately, the part of the script that's supposed to make old configuration compatible with Version 2 was scripted incorrectly and only accepts the new format in [#configuration](setup.md#configuration "mention") or:
+
+```lua
+Orientations = { -- Compatible orientations (Landscape | Portrait | Banner)
+		"Landscape",
+		"Portrait",
+		"Banner",
+}
+```
+
+We are actively working on AdGlide V2.0.1 to resolve any found bugs and issues immediately and we aim to release it by next week.
+
 ## Configuration
 
 All configuration settings have annotations beside them which explain the setting, but we'll teach you how to add image ads to your system!
@@ -34,11 +56,14 @@ All configuration settings have annotations beside them which explain the settin
 **Example Ad Format**
 
 ```lua
-["AdSys Ad (Landscape)"] = { -- You can set any name you'd like, it's for your own reference only.
-		["DecalId"] = "rbxassetid://18256906384", -- The ad's decal, Decal and Image IDs supported
-		["SoundId"] = "", -- Optional Sound ID, leave empty if no sound
-		["ScaleType"] = "Stretch", -- The scale type for the ad, Stretch or Fit only
-		["Orientation"] = "Landscape", -- The orientation of the ad (Portrait, Landscape, Banner)
+['Example Advertisement'] = {
+		DecalId = "", -- Image ID, not Asset ID
+		SoundId = "0", -- Sound to play when the ad is shown
+		ScaleType = "Stretch", -- The scale type for the ad (Stretch | Fit)
+		Orientations = { -- Compatible orientations (Landscape | Portrait | Banner)
+			Landscape = "0",
+			Portrait = "0",
+		}
 	},
 ```
 

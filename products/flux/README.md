@@ -19,7 +19,7 @@ layout:
 
 # Flux BMS
 
-Flux BMS, our simple building management system. Control all your devices, from one simple tablet.
+Flux BMS, our simple building management system. Control all your devices, from one simple device.
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)

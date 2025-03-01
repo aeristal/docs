@@ -21,7 +21,7 @@ layout:
 
 Meet Parcel Kiosk, our Parcel Kiosk allows you to sell your products on Parcel from anywhere in the game, not just the hub.
 
-The simple and minimalistic design allows it to blend into anything.
+The simple and minimalistic design allows it to blend into any situation.
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)
