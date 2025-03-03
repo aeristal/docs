@@ -28,3 +28,7 @@ The displays can also be used as part of your tech products.
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)
 {% endcontent-ref %}
+
+{% content-ref url="api-documentation.md" %}
+[api-documentation.md](api-documentation.md)
+{% endcontent-ref %}

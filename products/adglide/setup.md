@@ -27,33 +27,13 @@ For your information, here are the best resolutions to be used with Advertisemen
 * Portrait: 1080 x 1920
 * Banner: 1500 x 1000
 
-## Old Configuration Compatibility (for v1 users)
+## Adding an advertisement
 
-As AdGlide was rewritten from scratch, a part of the script that reads the **Advertisements** configuration was scripted incorrectly.
+All configuration settings have annotations beside them which explain the setting, but we'll teach you how to add an image ad to your system!
 
-Your advertisements' `Orientations` key should look like this:
+If you already have some basic scripting knowledge, here's 2 examples of ways you can add an advertisement to get you started.
 
-```lua
-["Orientation"] = "Portrait", -- The orientation of the ad (Portrait, Landscape, Banner)
-```
-
-Unfortunately, the part of the script that's supposed to make old configuration compatible with Version 2 was scripted incorrectly and only accepts the new format in [#configuration](setup.md#configuration "mention") or:
-
-```lua
-Orientations = { -- Compatible orientations (Landscape | Portrait | Banner)
-		"Landscape",
-		"Portrait",
-		"Banner",
-}
-```
-
-We are actively working on AdGlide V2.0.1 to resolve any found bugs and issues immediately and we aim to release it by next week.
-
-## Configuration
-
-All configuration settings have annotations beside them which explain the setting, but we'll teach you how to add image ads to your system!
-
-**Example Ad Format**
+#### **Example Ad Format 1**
 
 ```lua
 ['Example Advertisement'] = {
@@ -61,24 +41,44 @@ All configuration settings have annotations beside them which explain the settin
 		SoundId = "0", -- Sound to play when the ad is shown
 		ScaleType = "Stretch", -- The scale type for the ad (Stretch | Fit)
 		Orientations = { -- Compatible orientations (Landscape | Portrait | Banner)
-			Landscape = "0",
-			Portrait = "0",
+				Landscape = "Decal id here",
+				Portrait = "Decal id here",
+				Banner = "Decal id here",
 		}
-	},
+},
 ```
 
-1. In the `string` at the top, enter the name of the ad.
+#### **Example Ad Format 2**
+
+```lua
+['Example Advertisement'] = {
+		DecalId = "Decal id here", -- Image ID, not Asset ID
+		SoundId = "0", -- Sound to play when the ad is shown
+		ScaleType = "Stretch", -- The scale type for the ad (Stretch | Fit)
+		Orientation = "Landscape" -- Compatible orientations (Landscape | Portrait | Banner)
+},
+```
+
+### Step-by-step guide
+
+1. If your advertisement is going to be for multiple orientations (eg. Portrait & Landscape), copy [#example-a-d-format-1](setup.md#example-a-d-format-1 "mention") and paste it into `SysConfig.Advertisements`. If your advertisement is going to be for a single orientation only, copy [#example-a-d-format-2](setup.md#example-a-d-format-2 "mention") and paste it into `SysConfig.Advertisements`.
 
 {% hint style="success" %}
-Tip: Your ads will be played in alphabetical order following it's set name. Replace the name with numbers like 1, 2 or 3 to sort them!
+It's recommended to keep each advertisement separated by a newline.
 {% endhint %}
 
-2. In the `DecalId` field, you have to add the **Image ID** (not to be confused with **Asset ID**) of the ad or else the screen will appear as blank.
-3. If you want to have sound played when your ad is displayed, add the **Sound ID** in the `SoundId`field. The display will wait for the sound to finish before moving onto the next ad.
+2. Give your advertisement a name _**unique**_**&#x20;from other advertisements** by changing "Example Advertisement".
 
-{% hint style="warning" %}
-If you have `AutomaticallySync` enabled, an ad with sound will cause that display to go out of sync. An fix will be implemented for this soon.
+{% hint style="success" %}
+The name will be underlined with red if the advertisement's name is the same as another advertisement. Watch out for red bars appearing on the scrollbar!
 {% endhint %}
 
-4. Optionally, you can enter your own scaling preference for your ad. Stretch will stretch your ad across the screen and Fit will fit your ad onto the screen without stretching it.
-5. Different ads may have different sizes. Make sure you set the Orientation to Portrait, Landscape or Banner so your ad is shown on the appropriate screens.
+3. If your advertisement is for a single orientation, enter the **asset ID** of the **image** for your advertisement. Entering the asset id of the **decal** will not work.
+4. If your advertisement is for multiple orientations, add the **asset ID** of the images for the orientations your advertisement is for in the `Orientations` table. Remove the orientations that you will not be using from the `Orientations` table.
+5. If you'd like sound to be played during your advertisement, add the sound ID to `SoundId`.
+
+{% hint style="success" %}
+If you have `RandomizeAds`and `AutomaticallySync`enabled, all displays will wait if one or more displays are playing advertisements with sound until it's done and vice-versa.
+{% endhint %}
+
+6. Set the `ScaleType`of your advertisement to be either **Stretch** or **Fit**. Stretch will stretch your advertisement's image to maximize space on screen. Fit will maintain your advertisement's image's aspect ratio and will resize it to maximize space on screen.

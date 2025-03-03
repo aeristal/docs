@@ -18,11 +18,11 @@ Adds an advertisement to the queue of all devices. If advertisements fail the va
 
 **Parameters:**
 
-| Advertisement: table | The advertisement to queue (see "Code example").                              |
+| Advertisement: table | The advertisement to queue (see code examples).                               |
 | -------------------- | ----------------------------------------------------------------------------- |
 | Prioritize: boolean  | Whether the advertisement should be added to the first position in the queue. |
 
-**Code example:**
+**Code example 1:**
 
 <pre class="language-lua"><code class="lang-lua">local API = workspace["Atelier AdGlide Advertisement System"].API
 
@@ -32,11 +32,26 @@ API:Fire("QueueAd", {
 <strong>	SoundId = "0", -- Sound to play when the ad is shown
 </strong>	ScaleType = "Stretch", -- The scale type for the ad (Stretch | Fit)
 	Orientations = { -- Compatible orientations (Landscape | Portrait | Banner)
-		Landscape = "0",
-		Portrait = "0",
+		Landscape = "Decal id here",
+		Portrait = "Decal id here",
+		Banner = "Decal id here",
 	}
 }, true)
 </code></pre>
+
+**Code example 2:**
+
+```lua
+local API = workspace["Atelier AdGlide Advertisement System"].API
+
+API:Fire("QueueAd", {
+	Name = "Example Advertisement",
+	DecalId = "Decal id here", -- Image ID, not Asset ID
+	SoundId = "0", -- Sound to play when the ad is shown
+	ScaleType = "Stretch", -- The scale type for the ad (Stretch | Fit)
+	Orientation = "Landscape" -- Compatible orientations (Landscape | Portrait | Banner)
+}, true)
+```
 
 ### SetTopbar
 
