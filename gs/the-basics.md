@@ -1,6 +1,6 @@
 # 🙋 The Basics
 
-## Enabling HTTP requests
+## Enabling Http requests
 
 All products require HTTP requests to be enabled for license checking. Disabling HTTP requests does not allow you to bypass license checks, but instead your products will self-destruct.
 

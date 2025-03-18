@@ -1,5 +1,7 @@
 # 💁 Contact Us
 
-To contact our support team, please join our [**Discord server**](https://discord.gg/2Td9pB2kVs) and open a ticket in the #support channel related to your topic.
+Need help? Our dedicated support team is here for you! Join our Discord server and open a ticket in the #support channel for quick assistance. We’re available 24/7 and guarantee a response within 24 hours. Don’t hesitate to reach out—we’re always happy to help!
 
-Our support team is available 24 hours a day and will respond to your ticket within 24 hours.
+{% embed url="https://discord.gg/2Td9pB2kVs" %}
+Join our Discord server
+{% endembed %}

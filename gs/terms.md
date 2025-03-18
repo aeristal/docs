@@ -1,58 +1,50 @@
 # ℹ️ Terms of Use
 
-{% hint style="danger" %}
-It is encouraged that you review our Terms of Use before purchase. In the event that you do not agree with any one of the terms below, please [contact Support](../support/contact-us.md) to revoke your **NON-REFUNDABLE** license(s) if any.
-{% endhint %}
+These Terms apply to digital assets, including RBXM files (‘Product’), purchased directly from Atelier Group. In the event a User does not agree to these Terms, they may request to revoke their license (without refund), therefore forfeiting all rights to use the Product.
 
-{% hint style="success" %}
-Please join our [**Discord server**](https://discord.gg/2Td9pB2kVs) so that we are able to contact you when needed.
-{% endhint %}
+Unofficial products (those not purchased directly from Atelier Group) are not authorized and are considered a violation of these Terms. These Terms do not apply to any products sold by Atelier Group on Roblox's Creator Store.
 
-## Section 1: Products
+These Terms may change at any time without prior notice, and it is the responsibility of the User to refer to the latest version to ensure compliance.
 
-{% hint style="warning" %}
-If you have concerns about your privacy while using our products, it is strongly advised that you read this section [#aegis-our-automated-compliance-system](terms.md#aegis-our-automated-compliance-system "mention") thoroughly.
-{% endhint %}
+## 1. Usage Rights
 
-We've wrote our Terms of Use in a **simplified** way to make them easier to understand. You may contact us if you have any questions or concerns.
+Users are granted a non-exclusive, revocable right to use the Product only for personal or commercial purposes within the Roblox platform under the following conditions:
 
-### What you're allowed to do:
+* Users agree not to resell, redistribute, or share the Product in any form.
+* Users agree not to modify or attempt to decompile the Product to remove or bypass security, ownership verification, or compliance systems.
+* Users agree that they may modify the Product for personal or project-specific use but are not allowed to distribute modified versions.
+* Users agree not to use the Product to create or distribute counterfeit or derivative works that compete with the original.
+* All scripts in the Product are obfuscated and must not be altered, decompiled, or reverse-engineered.
+* The license may be transferred to another Roblox account upon request by [contacting Atelier Group](../support/contact-us.md). The license transfer may take up to 3 days due to response times and urgency.
 
-1. **Modify products** and use custom models, as long as the existing brandings remain.
-2. **Move brandings**, but they must remain on the product's surface.
-3. **Put your own brandings on products**, if you own the No Branding Pass or the product includes the **No Branding surcharge**. Products on sale on the Creator Store are included.
-4. **Resell licenses**, but not for more than 50 Robux above the original price.
-5. **Make UI modifications**, as long as you follow the Terms of Use and don’t change Parent properties. Deleting existing UI elements may cause the system to error, so delete with caution.
+## 2. Ownership & Restriction
 
-### What you're not allowed to do:
+* The Product remains the property of Atelier Group. Users are granted a right to use the Product but do not own it.
+* Unauthorized sharing, leaking, or re-selling of the Product will result in blacklisting the User, revoking access to the Product, or a warning depending on the severity of the violation.
+* Any attempt to obfuscate, modify, or bypass licensing mechanisms implemented within the Product is not allowed.
 
-1. **Deobfuscating** or **reverse engineering** any product.
-2. **Removing or changing brandings**, unless you own the No Branding Pass.
-3. **Claiming ownership** of our products unless permitted.
-4. **Using counterfeit products** without a license.
-5. **Using leaked products**, especially those resold by others.
-6. **Bypassing licensing systems**.
-7. **Redistributing product files to others**, even if they already own the product.
-8. **Using products illegally** or for unauthorized purposes.
-9. **Tampering** with products to falsely show poor condition.
-10. **Creating negative or unfair content** using our products (e.g., bad reviews, false comparisons, defamation).
-11. **Posting media** to harm sales, boycott, or damage Atelier Group, its sibling companies and/or Elysian's reputation.
-12. **Reselling licenses**, especially at inflated prices.
+## 3. Branding & Attribution
 
-### Aegis: Our Automated Compliance System
+* Users may not remove or alter any branding, credits, or attribution elements within the Product.
+* Modification or removal of branding in any form (such as product names, "Made by Atelier Group" stickers, etc.) is strictly prohibited.
+* Users can move brandings that are Parts or MeshParts, but they must stay visible on the product, even if the original placement is hidden when mounted.
+* If branding modifications are permitted by Atelier Group, explicit written permission must be obtained before making changes.
 
-Aegis is Atelier Group's Automated Compliance System (ACS) to automatically enforce our Terms of Use without the need of a human. The system may conduct automated inspections of products and will flag any suspected Terms of Use violations.
+## 4. Compliance & Automated Monitoring
 
-Flagged inspection results will then be sent to Atelier Group and a staff member will get in touch with you to seek further clarification and to resolve the situation.
+* Users acknowledge and agree that Atelier Group may use automated systems to inspect, verify, and ensure compliance with these Terms. These systems may include, but are not limited to:
+* Automated verification of ownership and license validity within the Product.
+* Security features that send alerts to Atelier Group in cases of suspected piracy, redistribution, or modification intended to bypass security measures.
+* Enforcement measures, including but not limited to warnings, blacklisting, or revocation of access for non-compliance.
+* Users agree not to interfere, disable, or attempt to circumvent these systems.
 
-Inspection results will include the following information:
+## 5. Enforcement
 
-* Experience/community owner's username and user ID
-* Link to experience
-* Name of product that sent the report **OR** full path to the associated branding (if any, eg. `Workspace.Atelier Flux BMS.Controllers.Flux Controller.AtelierBranding`)
+* If a User is found violating these Terms, Atelier Group reserves the right to issue warnings, blacklist the User, or revoke access to the Product entirely.
+* Users may also voluntarily revoke their access if they disagree with the Terms, but no refunds will be issued.
 
-However, Aegis may also make mistakes and we are willing to work with you to find out and resolve the problem immediately so that your operations aren't disrupted.
+## 6. Updates to the Terms
 
-{% hint style="info" %}
-Questions or concerns? Please don't hesitate to [contact-us.md](../support/contact-us.md "mention").
-{% endhint %}
+Atelier Group may update or amend these Terms at any time without prior notice. Users are responsible for checking the latest version to ensure compliance. Continued use of the Product means acceptance of the updated Terms.
+
+By using this Product, the User acknowledges and agrees to all terms outlined in these Terms.
