@@ -14,6 +14,10 @@ Users are granted a non-exclusive, revocable right to use the Product only for p
 * Users agree not to modify or attempt to decompile the Product to remove or bypass security, ownership verification, or compliance systems.
 * Users agree that they may modify the Product for personal or project-specific use but are not allowed to distribute modified versions.
 * Users agree not to use the Product to create or distribute counterfeit or derivative works that compete with the original.
+* Users agree not to use the Product for illegal or unauthorized purposes.
+* Users agree not to tamper with the product intentionally to falsely show poor condition.
+* Users agree not to create dishonest negative or unfair content using the Product (e.g., untruthful bad reviews, false comparisons, defamation).
+* Users agree not to post media to harm sales, boycott, or damage Atelier Group, its sibling companies and/or Elysian's reputation.
 * All scripts in the Product are obfuscated and must not be altered, decompiled, or reverse-engineered.
 * The license may be transferred to another Roblox account upon request by [contacting Atelier Group](../support/contact-us.md). The license transfer may take up to 3 days due to response times and urgency.
 
@@ -27,7 +31,8 @@ Users are granted a non-exclusive, revocable right to use the Product only for p
 
 * Users may not remove or alter any branding, credits, or attribution elements within the Product.
 * Modification or removal of branding in any form (such as product names, "Made by Atelier Group" stickers, etc.) is strictly prohibited.
-* Users can move brandings that are Parts or MeshParts, but they must stay visible on the product, even if the original placement is hidden when mounted.
+* Users may move brandings that are Parts or MeshParts, but they must stay visible on the product, even if the original placement is hidden when mounted.
+* Users may place their own brandings on the Product if the Product's price consists of a No Branding Surcharge (can be checked via our Discord server's product catalog) or the user owns the No Branding Pass.
 * If branding modifications are permitted by Atelier Group, explicit written permission must be obtained before making changes.
 
 ## 4. Compliance & Automated Monitoring
