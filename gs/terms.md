@@ -1,55 +1,68 @@
 # ℹ️ Terms of Use
 
-These Terms apply to digital assets, including RBXM files (‘Product’), purchased directly from Atelier Group. In the event a User does not agree to these Terms, they may request to revoke their license (without refund), therefore forfeiting all rights to use the Product.
+These Terms of Use are here to make things clear and fair for everyone using digital assets ("Product"), like RBXM files, purchased directly from Atelier Group. If you ever feel these Terms don’t work for you, no worries—you can request to cancel your license anytime (just note that refunds aren’t provided), and you’ll no longer be able to use the Product.
 
-Unofficial products (those not purchased directly from Atelier Group) are not authorized and are considered a violation of these Terms. These Terms do not apply to any products sold by Atelier Group on Roblox's Creator Store.
+Products not bought directly from us (like unofficial copies) aren’t allowed under these Terms. Also, anything you buy from us through Roblox’s Creator Store is not covered by these terms.
 
-These Terms may change at any time without prior notice, and it is the responsibility of the User to refer to the latest version to ensure compliance.
+We may update these Terms from time to time without notice, so it's a good idea to check in now and then to stay up-to-date.
 
-## 1. Usage Rights
+## 1. How You Can Use The Product
 
-Users are granted a non-exclusive, revocable right to use the Product only for personal or commercial purposes within the Roblox platform under the following conditions:
+We’re happy to offer you a non-exclusive, revocable license to use our Product for your own personal or commercial Roblox projects. To keep things fair, we ask you to:
 
-* Users agree not to resell, redistribute, or share the Product in any form.
-* Users agree not to modify or attempt to decompile the Product to remove or bypass security, ownership verification, or compliance systems.
-* Users agree that they may modify the Product for personal or project-specific use but are not allowed to distribute modified versions.
-* Users agree not to use the Product to create or distribute counterfeit or derivative works that compete with the original.
-* Users agree not to use the Product for illegal or unauthorized purposes.
-* Users agree not to tamper with the product intentionally to falsely show poor condition.
-* Users agree not to create dishonest negative or unfair content using the Product (e.g., untruthful bad reviews, false comparisons, defamation).
-* Users agree not to post media to harm sales, boycott, or damage Atelier Group, its sibling companies and/or Elysian's reputation.
-* All scripts in the Product are obfuscated and must not be altered, decompiled, or reverse-engineered.
-* The license may be transferred to another Roblox account upon request by [contacting Atelier Group](../support/contact-us.md). The license transfer may take up to 3 days due to response times and urgency.
+* Please don’t resell, give away, or share the Product with others.\*
+* Please don’t try to break, decompile, or remove the systems we’ve added to protect ownership or security.
+* You can edit the Product for your own use, but don’t share or redistribute those edits.\*
+* Please don’t use the Product to make knock-offs or anything meant to compete with the original.
+* Don’t use the Product for anything illegal or unauthorized.
+* Don’t intentionally make the Product look broken or in bad shape.
+* Avoid creating misleading or unfair content with the Product (like false reviews or fake comparisons).
+* Don’t post things just to hurt our reputation or sales.
 
-## 2. Ownership & Restriction
+\*This doesn't apply if you're using Team Create to work together with other developers in Roblox because other developers may save the Product as a file anyways. Don't worry, as our licensing systems will block them from using them without a license.
 
-* The Product remains the property of Atelier Group. Users are granted a right to use the Product but do not own it.
-* Unauthorized sharing, leaking, or re-selling of the Product will result in blacklisting the User, revoking access to the Product, or a warning depending on the severity of the violation.
-* Any attempt to obfuscate, modify, or bypass licensing mechanisms implemented within the Product is not allowed.
+All scripts in the Product are protected and must not be changed or reverse-engineered.
 
-## 3. Branding & Attribution
+Need to move your license to another Roblox account? Just reach out to us—it may take up to 3 days, depending on how fast we can reply and your situation.
 
-* Users may not remove or alter any branding, credits, or attribution elements within the Product.
-* Modification or removal of branding in any form (such as product names, "Made by Atelier Group" stickers, etc.) is strictly prohibited.
-* Users may move brandings that are Parts or MeshParts, but they must stay visible on the product, even if the original placement is hidden when mounted.
-* Users may place their own brandings on the Product if the Product's price consists of a No Branding Surcharge (can be checked via our Discord server's product catalog) or the user owns the No Branding Pass.
-* If branding modifications are permitted by Atelier Group, explicit written permission must be obtained before making changes.
+## 2. Ownership & What's Not Allowed
 
-## 4. Compliance & Automated Monitoring
+The Product still belongs to Atelier Group. You’re getting permission to use it—not full ownership.
 
-* Users acknowledge and agree that Atelier Group may use automated systems to inspect, verify, and ensure compliance with these Terms. These systems may include, but are not limited to:
-* Automated verification of ownership and license validity within the Product.
-* Security features that send alerts to Atelier Group in cases of suspected piracy, redistribution, or modification intended to bypass security measures.
-* Enforcement measures, including but not limited to warnings, blacklisting, or revocation of access for non-compliance.
-* Users agree not to interfere, disable, or attempt to circumvent these systems.
+* Sharing, leaking, or reselling the Product without our OK will lead to a warning, getting blacklisted, or losing access to the Product—depending on how serious it is.
+* Please don’t try to get around any licensing systems we’ve added.
 
-## 5. Enforcement
+## 3. Branding & Credit
 
-* If a User is found violating these Terms, Atelier Group reserves the right to issue warnings, blacklist the User, or revoke access to the Product entirely.
-* Users may also voluntarily revoke their access if they disagree with the Terms, but no refunds will be issued.
+* Please don’t remove or change any branding, credits, or tags that say it's made by Atelier Group.
+* If branding is added using Parts or MeshParts, you can move it if needed—but make sure it stays visible.
+* Want to add your own branding? You can only do that if:\
+  •   The Product has a "No Branding Surcharge" (check on our Discord catalog), or\
+  •   You have the "No Branding Pass."
+* If you’re unsure, reach out and get written permission before making branding changes.
 
-## 6. Updates to the Terms
+## 4. Keeping Things Safe
 
-Atelier Group may update or amend these Terms at any time without prior notice. Users are responsible for checking the latest version to ensure compliance. Continued use of the Product means acceptance of the updated Terms.
+We use some smart systems inside the Product to help make sure everything’s being used the right way. These may:
 
-By using this Product, the User acknowledges and agrees to all terms outlined in these Terms.
+* Check if the license is valid.
+* Notify us if there’s suspected piracy or tampering.
+* Trigger actions like warnings or revoking access if something’s wrong.
+
+Please don't try to disable or work around these systems.
+
+## 5. What Happens If Terms Are Broken
+
+If someone doesn’t follow these Terms, we may give a warning, blacklist them, or remove their license to use the Product.
+
+If you ever change your mind and want to stop using it, you can choose to cancel your access—just remember there are no refunds.
+
+## 6. Updates
+
+We might change these Terms occasionally. It’s your responsibility to check in once in a while and stay in the loop. If you keep using the Product after an update, that means you agree with the changes.
+
+By using the Product, you’re agreeing to everything above. Thanks for being part of our community!
+
+## Need Help?
+
+If you have any questions or need further clarification, please don't hesitate to [contact us](../support/contact-us.md).
