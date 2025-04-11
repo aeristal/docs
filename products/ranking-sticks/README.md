@@ -1,6 +1,6 @@
 ---
 description: Who knew a sword could be feature packed?
-cover: ../../.gitbook/assets/ateliergrp_creatordocsbanner.png
+cover: ../../.gitbook/assets/noren_creatordocsbanner.png
 coverY: 0
 layout:
   cover:
