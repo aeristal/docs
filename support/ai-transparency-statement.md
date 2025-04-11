@@ -2,7 +2,7 @@
 
 ### Introduction
 
-At Atelier Group, we commit to being open about the tools and technologies we use. This document outlines how AI is used in the development of our tech products, and how it benefits you, and the steps we take to ensure quality and ethical use.
+At Noren, we commit to being open about the tools and technologies we use. This document outlines how AI is used in the development of our tech products, and how it benefits you, and the steps we take to ensure quality and ethical use.
 
 ### How AI Supports Our Development Processes
 
@@ -14,13 +14,12 @@ By incorporating AI into our workflow, we are able to reduce time spent on resol
 
 ### Human Oversight and Quality Control
 
-While AI is an essential tool, it does not replace the expertise of our development team. Every AI-generated output undergoes human review to ensure that it meets our high standards. Our team is deeply involved in every step, ensuring that the final product aligns with our values and quality expectations. Our products are also tested by our team of QA testers before finalization.
+While AI is an essential tool, it does not replace the expertise of our development team. Every AI-generated output undergoes human review to ensure that it meets our high standards. Our team is deeply involved in every step, ensuring that the final product aligns with our values and quality expectations. Our products are also tested by our team of QA testers before finalisation.
 
 ### Conclusion
 
-At Atelier Group, we are excited about the potential of AI and its ability to improve our products and services. But we remain dedicated to using it responsibly, ensuring that transparency, ethics, and human creativity always come first. Thank you for trusting us to deliver quality tech products that blend innovation with integrity.
+At Noren, we are excited about the potential of AI and its ability to improve our products and services. But we remain dedicated to using it responsibly, ensuring that transparency, ethics, and human creativity always come first. Thank you for trusting us to deliver quality tech products that blend innovation with integrity.
 
 {% hint style="info" %}
 Questions or suggestions? [Contact us](contact-us.md) and let us know what's on your mind.
 {% endhint %}
-

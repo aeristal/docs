@@ -19,7 +19,11 @@ layout:
 
 # 👋 Welcome
 
-Welcome to the Creator Documentation for Atelier Group. Learn how to set up our products, and integrate our products with your existing systems.
+{% hint style="info" %}
+Atelier Group has rebranded to Noren.&#x20;
+{% endhint %}
+
+Welcome to the Creator Documentation for Noren. Learn how to set up our products, and integrate our products with your existing systems.
 
 ## Most visited this year
 
