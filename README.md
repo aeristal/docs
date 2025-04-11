@@ -20,7 +20,7 @@ layout:
 # 👋 Welcome
 
 {% hint style="info" %}
-Atelier Group has rebranded to Noren. See our discord for more information.
+Atelier Group has rebranded to Noren. See our Discord for more information.
 {% endhint %}
 
 Welcome to the Creator Documentation for Noren Products. Learn how to set up our products, and integrate our products with your existing systems.

@@ -3,7 +3,7 @@
 ## Information
 
 **Type:** BindableEvent\
-**Location:** ServerScriptService -> Atelier Ranking Sticks -> AG\_RSRequest\
+**Location:** ServerScriptService -> Noren Ranking Sticks -> AG\_RSRequest\
 **Execution example:**
 
 ```lua
