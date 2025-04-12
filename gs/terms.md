@@ -1,6 +1,6 @@
 # ℹ️ Terms of Use
 
-These Terms of Use are here to make things clear and fair for everyone using digital assets ("Product"), like RBXM files, purchased directly from Atelier Group. If you ever feel these Terms don’t work for you, no worries—you can request to cancel your license anytime (just note that refunds aren’t provided), and you’ll no longer be able to use the Product.
+These Terms of Use are here to make things clear and fair for everyone using digital assets ("Product"), like RBXM files, purchased directly from Noren. If you ever feel these Terms don’t work for you, no worries—you can request to cancel your license anytime (just note that refunds aren’t provided), and you’ll no longer be able to use the Product.
 
 Products not bought directly from us (like unofficial copies) aren’t allowed under these Terms. Also, anything you buy from us through Roblox’s Creator Store is not covered by these terms.
 
@@ -27,18 +27,18 @@ Need to move your license to another Roblox account? Just reach out to us—it m
 
 ## 2. Ownership & What's Not Allowed
 
-The Product still belongs to Atelier Group. You’re getting permission to use it—not full ownership.
+The Product still belongs to Noren. You’re getting permission to use it—not full ownership.
 
 * Sharing, leaking, or reselling the Product without our OK will lead to a warning, getting blacklisted, or losing access to the Product—depending on how serious it is.
 * Please don’t try to get around any licensing systems we’ve added.
 
 ## 3. Branding & Credit
 
-* Please don’t remove or change any branding, credits, or tags that say it's made by Atelier Group.
+* Please don’t remove or change any branding, credits, or tags that say it's made by Noren.
 * If branding is added using Parts or MeshParts, you can move it if needed—but make sure it stays visible.
 * Want to add your own branding? You can only do that if:\
-  •   The Product has a "No Branding Surcharge" (check on our Discord catalog), or\
-  •   You have the "No Branding Pass."
+  • The Product has a "No Branding Surcharge" (check on our Discord catalog), or\
+  • You have the "No Branding Pass."
 * If you’re unsure, reach out and get written permission before making branding changes.
 
 ## 4. Keeping Things Safe

@@ -24,7 +24,7 @@ Adds an advertisement to the queue of all devices. If advertisements fail the va
 
 **Code example 1:**
 
-<pre class="language-lua"><code class="lang-lua">local API = workspace["Atelier AdGlide Advertisement System"].API
+<pre class="language-lua"><code class="lang-lua">local API = workspace["Noren AdGlide Advertisement System"].API
 
 API:Fire("QueueAd", {
 	Name = "Example Advertisement",
@@ -42,7 +42,7 @@ API:Fire("QueueAd", {
 **Code example 2:**
 
 ```lua
-local API = workspace["Atelier AdGlide Advertisement System"].API
+local API = workspace["Noren AdGlide Advertisement System"].API
 
 API:Fire("QueueAd", {
 	Name = "Example Advertisement",
@@ -59,13 +59,10 @@ Sets the topbar text on all Portrait advertisement displays.
 
 **Parameters:**
 
-| Text: string | The text to be set as the topbar text. |
-| ------------ | -------------------------------------- |
-
 **Code example:**
 
 ```lua
-local API = workspace["Atelier AdGlide Advertisement System"].API
+local API = workspace["Noren AdGlide Advertisement System"].API
 
 API:Fire("SetTopbar", "Hello world!")
 ```

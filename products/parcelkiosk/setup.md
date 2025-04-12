@@ -10,5 +10,5 @@
 4. Your kiosks are now ready to be used! You can continue to customize it in your Config.
 
 {% hint style="success" %}
-Atelier Group will never attempt to use your Parcel hub's secret key for any other purposes which isn't stated in the Security Note in your SystemConfig.
+Noren will never attempt to use your Parcel hub's secret key for any other purposes which isn't stated in the Security Note in your SystemConfig.
 {% endhint %}

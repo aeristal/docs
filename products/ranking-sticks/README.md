@@ -20,7 +20,7 @@ layout:
 
 # Ranking Sticks
 
-Meet Atelier Ranking Sticks, where classic Roblox tools turned into feature rich ranking sticks.
+Meet Noren Ranking Sticks, where classic Roblox tools turned into feature rich ranking sticks.
 
 We know that Ranking Commands might be broken for most, so we put all of our effots into making sure these ranking sticks are working 100% of the time.
 

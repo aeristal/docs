@@ -6,18 +6,16 @@ This setup guide is only for flo Vehicle Access Control V2.2 and above.
 
 ## Integrations
 
-flo Card Reader Pro uses Atelier Group's new card reader, Atelier ReaderPlus. ReaderPlus is currently only compatible with 3 types of cards and will be compatible with even more cards soon.
+flo Card Reader Pro uses Noren's new card reader, Noren ReaderPlus. ReaderPlus is currently only compatible with 3 types of cards and will be compatible with even more cards soon.
 
 ### JSM Debit Cards
 
 Charge players whenever they tap a JSM Debit Card at a ReaderPlus device.
 
-1.  Locate the JSM-BankIntegration `BindableFunction` in the **Integrations** folder.\
-
+1.  Locate the JSM-BankIntegration `BindableFunction` in the **Integrations** folder.\\
 
     <figure><img src="../../.gitbook/assets/{CE9ED8AC-AA99-4A60-83C2-090991E235AB}.png" alt=""><figcaption></figcaption></figure>
-2. Open BankScript and you will find this function.\
-
+2. Open BankScript and you will find this function.\\
 
 ```lua
 function Network.OnInvoke(User,Amount)
