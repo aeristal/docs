@@ -1,25 +1,13 @@
 # 📄 AI Transparency Statement
 
-### Introduction
+At Noren, we believe that artificial intelligence has the power to make us more efficient, more creative, and ultimately better at what we do. We actively encourage our team to use AI responsibly as a tool to support and enhance their work—not replace it.
 
-At Noren, we commit to being open about the tools and technologies we use. This document outlines how AI is used in the development of our tech products, and how it benefits you, and the steps we take to ensure quality and ethical use.
+Our development process embraces AI to help us overcome technical challenges, especially in areas where certain advanced features were once beyond our scripting expertise. Thanks to AI, we’ve been able to bring these ideas to life faster and more effectively, pushing the boundaries of what our products can do.
 
-### How AI Supports Our Development Processes
+That said, AI is just one part of the equation. Every product we release undergoes rigorous testing and human oversight. Regardless of whether AI contributed to the development, our team ensures that the final output meets the high standards of quality, performance, and usability that Noren stands for.
 
-AI plays a role in various stages of our products' development. From assisting with debugging to optimizing code for performance, AI helps speed up our development while maintaining consistency. However, our team ensures that every piece produced reflects our brand's quality and vision.
-
-### Benefits of Using AI
-
-By incorporating AI into our workflow, we are able to reduce time spent on resolving bugs (\~30 mins or more), and improve the performance of our products. AI enables us to get past obstructions faster, giving us more time to focus on refining the final product to meet your needs.
-
-### Human Oversight and Quality Control
-
-While AI is an essential tool, it does not replace the expertise of our development team. Every AI-generated output undergoes human review to ensure that it meets our high standards. Our team is deeply involved in every step, ensuring that the final product aligns with our values and quality expectations. Our products are also tested by our team of QA testers before finalisation.
-
-### Conclusion
-
-At Noren, we are excited about the potential of AI and its ability to improve our products and services. But we remain dedicated to using it responsibly, ensuring that transparency, ethics, and human creativity always come first. Thank you for trusting us to deliver quality tech products that blend innovation with integrity.
+We’re excited about the potential AI brings—and we’re committed to using it thoughtfully, transparently, and always with your experience in mind.
 
 {% hint style="info" %}
-Questions or suggestions? [Contact us](contact-us.md) and let us know what's on your mind.
+If you have any questions or feedback, [we’d love to hear from you](contact-us.md).
 {% endhint %}
