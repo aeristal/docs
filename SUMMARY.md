@@ -46,3 +46,6 @@
 * [Nadium Lighting System](products/nadiumls/README.md)
   * [Setup](products/nadiumls/setup.md)
   * [API Documentation](products/nadiumls/api-documentation.md)
+* [Lumina Notifications](products/lumina/README.md)
+  * [Setup](products/lumina/setup.md)
+  * [Sending a notification](products/lumina/sending-a-notification.md)
