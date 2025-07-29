@@ -1,29 +1,13 @@
 ---
 cover: ../../.gitbook/assets/noren_creatordocsbanner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # flo Vehicle Access Control
 
-Introducing the flo Vehicle Access Control. It's our flagship system which helps you with controlling entries/exits in your own premises.
-
-It has all the essential features you'll ever need. Zones, gates.. even LPR cameras!
-
-No more manual ticket booths. Let flo, handle the flow.
+{% hint style="warning" %}
+This product requires a paid license. It is a violation of the [terms.md](../../gs/terms.md "mention") to use a product without a license.
+{% endhint %}
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)

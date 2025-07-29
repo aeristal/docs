@@ -1,4 +1,8 @@
-# 📄 AI Transparency Statement
+---
+icon: robot
+---
+
+# AI Transparency Statement
 
 At Noren, we believe that artificial intelligence has the power to make us more efficient, more creative, and ultimately better at what we do. We actively encourage our team to use AI responsibly as a tool to support and enhance their work—not replace it.
 

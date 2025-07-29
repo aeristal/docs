@@ -1,23 +1,13 @@
 ---
 cover: ../.gitbook/assets/noren_creatordocsbanner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Car Park Bundle
+
+{% hint style="warning" %}
+This product requires a paid license. It is a violation of the [terms.md](../gs/terms.md "mention") to use a product without a license.
+{% endhint %}
 
 Car Park Bundle is an **bundle**. Please see below for the relevant product information and setup guides.
 

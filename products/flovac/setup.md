@@ -1,9 +1,5 @@
 # Setup
 
-{% hint style="danger" %}
-A paid license is required to use this product.
-{% endhint %}
-
 {% hint style="success" %}
 This setup guide is only for flo Vehicle Access Control V2.2 and above. [Looking for Card Reader Pro's setup guide?](setup-crp.md)
 {% endhint %}

@@ -1,10 +1,20 @@
-# 🙋 The Basics
+---
+icon: wrench
+---
 
-## Enabling Http requests
+# The Basics
 
-All products require HTTP requests to be enabled for license checking. Disabling HTTP requests does not allow you to bypass license checks, but instead your products will self-destruct.
+{% hint style="success" %}
+This guide only applies to products covered by the [terms.md](terms.md "mention") (products purchased through Parcel/Packables).
+{% endhint %}
 
-Follow the step-by-step guide below to learn how to enable HTTP requests in your game.
+Before you start using any Noren product, you need to go through the basics to make sure your product can function. Most tech products with licensing systems also require to do the same or similar steps in this guide.
+
+## 1. Allow your game servers to send Http requests
+
+Every Noren product uses a licensing module to perform checks. All our licensing modules require to interact with third-party APIs to perform these checks.
+
+Follow the step-by-step guide below to learn how to allow Http requests to be sent from your game servers.
 
 1.  Open Game Settings from the Ribbon.
 
@@ -17,13 +27,17 @@ Follow the step-by-step guide below to learn how to enable HTTP requests in your
     <figure><img src="../.gitbook/assets/image (2).png" alt="" width="314"><figcaption></figcaption></figure>
 4. Click Save at the bottom right of the Game Settings window, and you're done!
 
-## Script Capabilities
+## 2. Ensure your product scripts have the necessary capabilities
 
 {% hint style="info" %}
 This section is only for those who have designated any `Model`, `Folder`, or `Script` as a sandboxed container in their **scripted** product. For more information, please [click here](https://create.roblox.com/docs/scripting/capabilities).
 {% endhint %}
 
-For every sandboxed container, here are some capabilities that we highly recommend allowing to ensure that your product can function correctly.
+{% hint style="success" %}
+Roblox may update their Creator Documentation at anytime, so the below steps may be inaccurate.
+{% endhint %}
+
+For every sandboxed container, here are a list of capabilities that we highly recommend allowing to ensure that your product can function correctly.
 
 ### Execution Control
 

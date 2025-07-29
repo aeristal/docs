@@ -1,9 +1,5 @@
 # Setup
 
-{% hint style="danger" %}
-A paid license is required to use this product.
-{% endhint %}
-
 ## Immersive Ads
 
 If your game is eligible for Immersive Ads, it's recommended that you enable Immersive Ads on your system. But take note of the changes when you enable Immersive Ads:
@@ -81,4 +77,4 @@ The name will be underlined with red if the advertisement's name is the same as 
 If you have `RandomizeAds`and `AutomaticallySync`enabled, all displays will wait if one or more displays are playing advertisements with sound until it's done and vice-versa.
 {% endhint %}
 
-6. Set the `ScaleType`of your advertisement to be either **Stretch** or **Fit**. Stretch will stretch your advertisement's image to maximize space on screen. Fit will maintain your advertisement's image's aspect ratio and will resize it to maximize space on screen.
+6. Set the `ScaleType` of your advertisement to be either **Stretch** or **Fit**. Stretch will stretch your advertisement's image to maximize space on screen. Fit will maintain your advertisement's image's aspect ratio and will resize it to maximize space on screen.

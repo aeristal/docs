@@ -1,35 +1,25 @@
 ---
 cover: ../../.gitbook/assets/noren_creatordocsbanner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # compassRobbery
 
-{% hint style="info" %}
-This product is not available.
+{% hint style="warning" %}
+This product requires a paid license. It is a violation of the [terms.md](../../gs/terms.md "mention") to use a product without a license.
 {% endhint %}
 
 {% hint style="info" %}
-This product only supports JSM SelfServ ATM V2
+This product is unbranded.
 {% endhint %}
 
-Say hello to compassRobbery, our easy to setup ATM robbery systen.
+{% hint style="info" %}
+This product is currently not available.
+{% endhint %}
 
-This system allows your players to attempt to rob ATMs which inturn disables them and notifies staff members. Once the issue is fixed, it restarts the ATM.
+{% hint style="success" %}
+This product requires JSM SelfServ ATM V2 to be used.
+{% endhint %}
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)

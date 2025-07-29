@@ -1,31 +1,17 @@
 ---
 cover: ../../.gitbook/assets/noren_creatordocsbanner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # smartStock
 
+{% hint style="warning" %}
+This product requires a paid license. It is a violation of the [terms.md](../../gs/terms.md "mention") to use a product without a license.
+{% endhint %}
+
 {% hint style="info" %}
 **T**his product is currently not for sale due to performance issues.
 {% endhint %}
-
-smartStock is our simple and widely customisable stocking system which makes your customers shopping experience, easy!
-
-smartStock also includes an Out of Stock GUI so once products run out, your restockers are notified, it's that easy!
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)

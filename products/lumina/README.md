@@ -6,6 +6,10 @@ coverY: 0
 # Lumina Notifications
 
 {% hint style="info" %}
+This product is unbranded.
+{% endhint %}
+
+{% hint style="info" %}
 This product is currently only available by invitation to Noted Customers, Server Boosters, Corporate staff members, and members of the Board of Directors.
 {% endhint %}
 

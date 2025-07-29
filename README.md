@@ -1,23 +1,10 @@
 ---
+icon: hand-wave
 cover: .gitbook/assets/noren_creatordocsbanner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# 👋 Welcome
+# Welcome
 
 {% hint style="info" %}
 Atelier Group has rebranded to Noren. See our Discord for more information.

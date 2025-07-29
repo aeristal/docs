@@ -1,4 +1,8 @@
-# 📚 Frequently Asked Questions
+---
+icon: question
+---
+
+# Frequently Asked Questions
 
 **Question: Can I transfer my product license(s) to another account/person?**\
 Answer: Yes. You may [contact us](contact-us.md) to transfer your product license to another Roblox account.

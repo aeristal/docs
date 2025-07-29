@@ -1,27 +1,17 @@
 ---
 cover: ../../.gitbook/assets/noren_creatordocsbanner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# AdGlide
+# AdGlide  Advertisement System
 
-Our advanced advertisement system has never seen before capabilities which allows your marketing to go further than just showing your brand to others but the ability to monetize your marketing.
+{% hint style="warning" %}
+This product requires a paid license. It is a violation of the [terms.md](../../gs/terms.md "mention") to use a product without a license.
+{% endhint %}
 
-Our Advertisement System not only lets you boost your sales, but able to monetize your game using Roblox's Immersive Ads.
+{% hint style="info" %}
+This product is unbranded.
+{% endhint %}
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)

@@ -1,18 +1,19 @@
 # Table of contents
 
-## ✨ Getting Started <a href="#gs" id="gs"></a>
+## Getting Started <a href="#gs" id="gs"></a>
 
-* [👋 Welcome](README.md)
-* [ℹ️ Terms of Use](gs/terms.md)
-* [🙋 The Basics](gs/the-basics.md)
+* [Welcome](README.md)
+* [Terms of Use](gs/terms.md)
+* [The Basics](gs/the-basics.md)
+* [Updating Your Products](gs/updating.md)
 
-## ❓ Support
+## Support
 
-* [📚 Frequently Asked Questions](support/faq.md)
-* [💁 Contact Us](support/contact-us.md)
-* [📄 AI Transparency Statement](support/ai-transparency-statement.md)
+* [Frequently Asked Questions](support/faq.md)
+* [Contact Us](support/contact-us.md)
+* [AI Transparency Statement](support/ai-transparency-statement.md)
 
-## ⚙️ Products
+## Products
 
 * [ZURA Display Pack](products/zuradisplaypack/README.md)
   * [Setup](products/zuradisplaypack/setup.md)
@@ -29,7 +30,7 @@
   * [API Documentation](products/flovac/api-documentation.md)
 * [ParkingPal](products/parkingpal/README.md)
   * [Setup](products/parkingpal/setup.md)
-* [AdGlide](products/adglide/README.md)
+* [AdGlide  Advertisement System](products/adglide/README.md)
   * [Setup](products/adglide/setup.md)
   * [API Documentation](products/adglide/api-documentation.md)
 * [smartStock](products/smartstock/README.md)

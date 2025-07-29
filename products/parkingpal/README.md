@@ -1,8 +1,17 @@
+---
+cover: ../../.gitbook/assets/noren_creatordocsbanner.png
+coverY: 0
+---
+
 # ParkingPal
 
-Always hated searching for a parking space in a full car park? Well don't put that burden on your customers.
+{% hint style="warning" %}
+This product requires a paid license. It is a violation of the [terms.md](../../gs/terms.md "mention") to use a product without a license.
+{% endhint %}
 
-ParkingPal is our easy to setup car park management system, including displays and light beacons to stop your customers from guessing if a space is free or not.
+{% hint style="info" %}
+This product is unbranded.
+{% endhint %}
 
 {% content-ref url="setup.md" %}
 [setup.md](setup.md)
