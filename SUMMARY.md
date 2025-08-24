@@ -50,6 +50,4 @@
 * [Lumina Notifications](products/lumina/README.md)
   * [Setup](products/lumina/setup.md)
   * [Sending a notification](products/lumina/sending-a-notification.md)
-* [Sentra Automated Speed Enforcement System](products/sentraases/README.md)
-  * [Setup](products/sentraases/setup.md)
-  * [Sending a notification](products/sentraases/sending-a-notification.md)
+* [Sentra Automated Speed Enforcement System](products/sentraases.md)
