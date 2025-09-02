@@ -9,7 +9,10 @@
 
 ## Support
 
-* [Frequently Asked Questions](support/faq.md)
+* [Support Articles](support/articles/README.md)
+  * [Refunds](support/articles/refunds.md)
+  * [License Transfers](support/articles/license-transfers.md)
+  * [I can't find the solution I need!](support/articles/i-cant-find-the-solution-i-need.md)
 * [Contact Us](support/contact-us.md)
 * [AI Transparency Statement](support/ai-transparency-statement.md)
 

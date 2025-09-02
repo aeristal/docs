@@ -1,5 +1,7 @@
 ---
 icon: mailbox
+cover: ../.gitbook/assets/noren_creatordocsbanner.png
+coverY: 0
 ---
 
 # Contact Us

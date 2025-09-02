@@ -1,5 +1,7 @@
 ---
 icon: robot
+cover: ../.gitbook/assets/noren_creatordocsbanner.png
+coverY: 0
 ---
 
 # AI Transparency Statement
