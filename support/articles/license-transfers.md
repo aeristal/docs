@@ -1,15 +1,19 @@
+---
+icon: arrow-up-from-bracket
+---
+
 # License Transfers
 
 Unfortunately if your Roblox account gets terminated or you lose access to it, Parcel will not be able to transfer your licenses. Don't worry—we're here to help you.
 
 Currently, license transfers are done manually by Noren while we work on a way for our customers to do so themselves at anytime.
 
-{% hint style="info" %}
-Please take note that you cannot request a license transfer from someone else's account. If you wish to transfer licenses from an Roblox account you own **that has been terminated**, please provide the required items as listed below.
+{% hint style="success" %}
+You can only request a license transfer from your own Roblox account or another Roblox account that **you own**. If you have **lost access** to your Roblox account, please contact [Roblox Support](https://roblox.com/support).
 {% endhint %}
 
-{% hint style="success" %}
-You can only request a license transfer from another Roblox account if it has been **terminated** and you **own the account**. If you have **lost access** to your Roblox account, please contact [Roblox Support](https://roblox.com/support).
+{% hint style="warning" %}
+It is important to understand that once you have transferred any of your licenses to another Roblox account, you will **not be able to get it back** unless the transfer recipient transfers it back to you. If you are transferring to another Roblox account that **you own**, it is crucial that you have a way to **prove your ownership** of the account or the license(s) will be stuck with that account (_see below for accepted types of proof of account ownership_).
 {% endhint %}
 
 Here's how to transfer your license(s):
@@ -21,7 +25,7 @@ Here's how to transfer your license(s):
 1. Names of the licenses you wish to transfer, and
 2. Roblox username of the transfer recipient, or
 3. Discord username of the transfer recipient, and
-4. proof of account ownership (if receiving licenses from an terminated Roblox account you own).
+4. proof of account ownership (if transferring licenses from another Roblox account you own).
 
 **Types of proof of account ownership accepted:**
 
@@ -30,7 +34,7 @@ Here's how to transfer your license(s):
 * Date **and** support ticket ID of past license transfer requests (if you transferred the licenses to the Roblox account in the past, the transfer must've been made by your Discord account)
 
 {% hint style="warning" %}
-If the licenses of the terminated Roblox account has already been transferred, you will no longer be eligible to get the licenses. However, the new owner of the licenses can request to transfer their licenses to you.
+If the licenses of a terminated Roblox account has already been transferred, no one else will be able to get the licenses. However, the new owner of the licenses can request to transfer their licenses.
 {% endhint %}
 {% endstep %}
 
