@@ -5,12 +5,10 @@
 * [Welcome](README.md)
 * [Terms of Use](gs/terms.md)
 * [The Basics](gs/the-basics.md)
-* [Updating Your Products](gs/updating.md)
 
-## Support
+***
 
-* [Contact Us](support/contact-us.md)
-* [AI Transparency Statement](support/ai-transparency-statement.md)
+* [I need more help!](https://app.gitbook.com/o/bTteZ24RHNPylEP668MM/s/Rj5umFSPEKFhW4JqM6l9/)
 
 ## Products
 
