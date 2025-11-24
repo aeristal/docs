@@ -48,3 +48,4 @@
   * [Setup](products/lumina/setup.md)
   * [Sending a notification](products/lumina/sending-a-notification.md)
 * [Sentra Automated Speed Enforcement System](products/sentraases.md)
+* [Flux Air](products/fluxair.md)
