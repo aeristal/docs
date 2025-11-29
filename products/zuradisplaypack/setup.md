@@ -21,8 +21,7 @@ The ZURA HDMI Transmitter makes it easy for you to display the same GUI in every
 1. Have your GUI ready and make sure it is an `SurfaceGui`. The GUI's Face should be `Front`.
 2. Locate your transmitter.
 3. Parent the GUI to the transmitter. \
-   ![](<../../.gitbook/assets/image (14).png>)\
-
+   ![](<../../.gitbook/assets/image (14).png>)<br>
 4. All displays in the zone should now be displaying your GUI.
 
 {% hint style="warning" %}

@@ -3,20 +3,16 @@ cover: ../../.gitbook/assets/noren_documentationBanner.png
 coverY: 0
 ---
 
-# AdGlide  Advertisement System
+# ATM Robbery System
 
 {% hint style="warning" %}
 This product requires a paid license. It is a violation of the [terms.md](../../gs/terms.md "mention") to use a product without a license.
 {% endhint %}
 
-{% hint style="info" %}
-This product is unbranded.
+{% hint style="success" %}
+This product requires compatible ATM models from JSM.
 {% endhint %}
 
-{% content-ref url="setup.md" %}
-[setup.md](setup.md)
-{% endcontent-ref %}
-
-{% content-ref url="api-documentation.md" %}
-[api-documentation.md](api-documentation.md)
+{% content-ref url="setup-jsm.md" %}
+[setup-jsm.md](setup-jsm.md)
 {% endcontent-ref %}

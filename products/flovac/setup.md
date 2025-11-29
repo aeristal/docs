@@ -19,8 +19,7 @@ Assuming you already have your lane built, follow the steps below.
 
 
 
-1. First, move your Flex Gate to the left side of the lane like the picture below. To know how to scale your gate, refer to the [Scaling your gates](setup.md#scaling-your-gates) section.\
-
+1. First, move your Flex Gate to the left side of the lane like the picture below. To know how to scale your gate, refer to the [Scaling your gates](setup.md#scaling-your-gates) section.<br>
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt="Vehicle lane with a Flex Gate on the left side." width="375"><figcaption></figcaption></figure>
 

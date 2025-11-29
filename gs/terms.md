@@ -35,7 +35,7 @@ We’re happy to offer you a non-exclusive, revocable license to use our Product
 \*Team Create sessions may make it **almost impossible** to comply with these terms as you don't know what other developers might do. However, the developer that **violates these terms**, whether they own the product or not, will be **held responsible** for their own actions.
 
 {% hint style="success" %}
-**License Transfers:** Please [contact us](broken-reference) if you'd like to transfer any of your licenses. The completion duration of your transfer request is subject to support response times.
+**License Transfers:** Please [contact us](/broken/pages/JLT9kGYgCwpUIsgZi5Pb) if you'd like to transfer any of your licenses. The completion duration of your transfer request is subject to support response times.
 {% endhint %}
 
 ## 2. Ownership & What's Not Allowed
@@ -82,4 +82,4 @@ By using the Product, you’re _**agreeing to everything above**_. Thanks for be
 
 ## Need Help?
 
-If you have any questions or need further clarification, please don't hesitate to [contact us](broken-reference).
+If you have any questions or need further clarification, please don't hesitate to [contact us](/broken/pages/JLT9kGYgCwpUIsgZi5Pb).
